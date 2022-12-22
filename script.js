@@ -19,7 +19,7 @@ function myFunction() {
     
     else{
     //alert("I am an ${person} ");
-    window.alert(person + "Padhai Kro 😑");
+    window.alert(person + " Padhai Kro 😑");
     }
   }
 
